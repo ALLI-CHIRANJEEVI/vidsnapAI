@@ -69,7 +69,8 @@ pip install -r requirements.txt
 
 # 6️⃣ Start the Flask web app
 python main.py
-rminal
+
+# 7️⃣ Run the background video processor in a separate terminal
 python generate_process.py
 
 # 8️⃣ Open the app in your browser
@@ -81,4 +82,4 @@ http://127.0.0.1:5000/
 
 Alli Chiranjeevi
 [🔗GitHub Profile](https://github.com/ALLI-CHIRANJEEVI)
-# 7️⃣ Run the background video processor in a separate te
+
